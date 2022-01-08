@@ -1,6 +1,6 @@
 # igniteReactApp
 
-Deployed to Netlify: https://boring-ardinghelli-1b9123.netlify.app/game/3328
+Deployed to Netlify: https://boring-ardinghelli-1b9123.netlify.app/
 
 ![1](https://user-images.githubusercontent.com/66824231/144235920-e39b4148-21d4-4203-9ecc-9f3cd7d3c431.jpg)
 
